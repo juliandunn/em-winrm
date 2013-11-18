@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = ["README.rdoc", "LICENSE" ]
   s.authors     = ["Seth Chisamore"]
   s.email       = ["schisamo@opscode.com"]
-  s.homepage    = "http://github.com/schisamo/em-winrm"
+  s.homepage    = "http://github.com/opscode/em-winrm"
   s.summary     = %q{EventMachine based, asynchronous parallel WinRM client}
   s.description = s.summary
 
